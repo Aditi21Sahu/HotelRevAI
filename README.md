@@ -47,4 +47,10 @@ What I Learned
 Final Note
 
 This project shows how raw data can be converted into meaningful insights that help businesses make better decisions.
+These are the dashboard views:
+![Dashboard](Screenshot 2026-04-08 124028.png)
+![Dashboard](Screenshot 2026-04-08 124051.png)
+![Dashboard](Screenshot 2026-04-08 124116.png)
+![Dashboard](Screenshot 2026-04-08 124136.png)
+
 
