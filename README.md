@@ -44,10 +44,7 @@ What I Learned
 * Turning data into real business insights
 
 
-Team
-This project was completed as part of a team during an internship.
-
-
 Final Note
 
 This project shows how raw data can be converted into meaningful insights that help businesses make better decisions.
+
